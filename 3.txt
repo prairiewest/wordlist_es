@@ -1,3 +1,6 @@
+aba
+aca
+aes
 ahi
 aja
 aje
@@ -89,6 +92,7 @@ duz
 eco
 efe
 ego
+ej.
 eje
 ele
 eme
